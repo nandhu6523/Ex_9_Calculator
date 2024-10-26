@@ -23,7 +23,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 /*
 Program to print the text “calculator operation”.
-Developed by:Nandhini S \nRegisteration Number :212222220028
+Developed by:Nandhini S Registeration Number :212222220028
 */
 ## Mainactivity.java:
 ```
