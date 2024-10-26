@@ -294,8 +294,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ![Screenshot 2024-10-26 132133](https://github.com/user-attachments/assets/8998d47a-a10c-481d-b760-afe9ecc6a3df)
-
-![Screenshot 2024-10-26 132133](https://github.com/user-attachments/assets/ab6c8dda-5625-4102-ba63-07a6bc0d5e2f)
+![image](https://github.com/user-attachments/assets/adf86fdc-eab6-4109-bacb-91c714c7f22b)
 
 
 
